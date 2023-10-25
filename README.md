@@ -31,5 +31,5 @@ This application is an application for viewing movies. and the features are:
 
 ## Screenshot
 
-![Alt text](https://github.com/PSY8998/CinemaSimplified/blob/master/assets/Screenshot_20231019-131223.png?raw=true "Optional Title")
+![Alt text](https://github.com/PSY8998/CinemaSimplified/blob/master/assets/Screenshot_20231019-131223.png?raw=true "Optional Title") |   ![Alt text](https://github.com/PSY8998/CinemaSimplified/blob/master/assets/Screenshot_20231019-131228.png?raw=true "Optional Title")  |  ![Alt text](https://github.com/PSY8998/CinemaSimplified/blob/master/assets/Screenshot_20231019-131237.png?raw=true "Optional Title")   | ![Alt text](https://github.com/PSY8998/CinemaSimplified/blob/master/assets/Screenshot_20231019-131243.png?raw=true "Optional Title")
 
